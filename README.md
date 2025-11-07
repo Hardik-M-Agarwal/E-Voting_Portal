@@ -32,12 +32,7 @@ Voter – Authenticates securely and casts their vote within the allowed time.
 
 📉 Graphical Results – Displays candidate performance via charts and graphs for easy understanding.
 
-🗄️ Database Configuration
-Configuration	Details
-Database Used	SQL (MySQL / PostgreSQL etc.)
-Connection Method	JDBC
-Setup	Create required tables before running the app
-Credentials	Update in config.properties file
+
 🧩 Usage Guide
 
 1️⃣ Login as Admin, Super Admin, or Voter.
@@ -46,14 +41,14 @@ Credentials	Update in config.properties file
 4️⃣ Super Admin declares the final results and ends the election.
 5️⃣ Results are shown in graphical format for better insights.
 
-🧠 Technologies Used
-Category	Tools / Libraries
-Language	Java (JDK 17+)
-GUI	Swing / JavaFX
-Database	SQL via JDBC
-Visualization	JFreeChart (optional)
-Version Control	Git & GitHub
-🎯 Highlights
+| Category            | Tools / Libraries     |
+| :------------------ | :-------------------- |
+| **Language**        | Java (JDK 17+)        |
+| **GUI**             | Swing / JavaFX        |
+| **Database**        | SQL via JDBC          |
+| **Visualization**   | JFreeChart (optional) |
+| **Version Control** | Git & GitHub          |
+
 
 ✨ Role-based access ensures security & accountability
 🕒 Timed voting makes elections structured & fair
